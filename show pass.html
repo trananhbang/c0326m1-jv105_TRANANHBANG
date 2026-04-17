@@ -1,10 +1,29 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-  <meta charset="UTF-8">
-  <title>$Title$</title>
+    <meta charset="UTF-8">
+    <title>show pass</title>
 </head>
 <body>
-$END$
+    <div>
+        <input id="userName" placeholder="Username" type="text"/>
+    </div>
+    <div>
+        <input id="password" placeholder="Password" type="password"/>
+        <button id="btn" onclick="tongleP" type="button">Show pass</button>
+    </div>
+    <script>
+
+        function showPass() {
+            let pass = document.getElementById("password");
+
+            if (pass.type === "password") {
+                pass.type = "text";
+            } else {
+                pass.type = "password";
+            }
+        }
+
+    </script>
 </body>
 </html>
