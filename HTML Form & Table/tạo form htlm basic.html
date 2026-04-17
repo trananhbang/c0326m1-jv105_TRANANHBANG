@@ -2,7 +2,7 @@
 <html lang="en">
 <head>
     <meta charset="UTF-8">
-    <title>Sở thích</title>
+    <title>Sở thích và đăng kí</title>
     <style>
         .folder{
             color: blue;
@@ -20,6 +20,38 @@
         .button{
             text-align: center;
         }
+        .form-box input {
+            margin-left: 10px;
+        }
+
+
+        .box {
+            width: 500px;
+            margin: 20px auto;
+            border: #FFFFCC;   /* viền vàng */
+            padding: 10px;
+            background-color: #FFFFCC;
+        }
+
+        .title {
+            background-color: cyan;
+            color: blue;
+            text-align: center;
+            padding: 5px;
+        }
+
+        .label {
+            color: blue;
+            width: 120px;
+        }
+
+        textarea {
+            width: 250px;
+            height: 80px;
+        }
+
+
+
     </style>
 </head>
 <body>
@@ -34,7 +66,7 @@
 
             <div>
                 <label>Email</label>
-                <input type="text" name="email">
+                <input type="email" name="email">
             </div>
 
             <label>Sở thích</label>
@@ -46,7 +78,7 @@
             <label><input type="checkbox" name="sở thích" value="Lướt web">Lướt web</label>
             <label><input type="checkbox" name="Sở thích" value="Chơi game">Chơi game</label>
             <label><input type="checkbox" name="Sở thích" value="Điện ảnh">Điện ảnh</label><br>
-            <label><input type="checkbox" name="Sỏ thích" value="Du lịch">Du lịch</label>
+            <label><input type="checkbox" name="Sở thích" value="Du lịch">Du lịch</label>
         </div>
         <div class="button">
             <button type="submit">Gửi thông tin</button>
@@ -54,6 +86,70 @@
         </div>
     </div>
 
+
+</form>
+
+<hr>
+
+<form class="form-dangky">
+    <div class="box">
+        <h2 style="background-color: cyan; color: blue; text-align: center">ĐĂNG KÝ HỌC VIÊN</h2>
+
+        <table>
+
+            <tr>
+                <td class="label">Họ và tên</td>
+                <td><input type="text" size="30"></td>
+            </tr>
+
+            <tr>
+                <td class="label">Ngày sinh</td>
+                <td><input type="text" size="20"></td>
+            </tr>
+
+            <tr>
+                <td class="label">Giới tính</td>
+                <td>
+                    <input type="radio" name="gt"> Nam
+                    <input type="radio" name="gt"> Nữ
+                </td>
+            </tr>
+
+            <tr>
+                <td class="label">Địa chỉ</td>
+                <td><textarea></textarea></td>
+            </tr>
+
+            <tr>
+                <td class="label">Lớp</td>
+                <td>
+                    <select>
+                        <option>— Chọn lớp —</option>
+                        <option>12A1</option>
+                        <option>12A2</option>
+                    </select>
+                </td>
+            </tr>
+
+            <tr>
+                <td class="label">Email</td>
+                <td><input type="email" size="25"></td>
+            </tr>
+
+            <tr>
+                <td class="label">Điện thoại</td>
+                <td><input type="text" size="25"></td>
+            </tr>
+
+            <tr>
+                <td></td>
+                <td class="btn">
+                    <button type="submit">Đăng ký</button>
+                    <button type="reset">Nhập lại</button>
+                </td>
+            </tr>
+        </table>
+    </div>
 
 </form>
 </body>
