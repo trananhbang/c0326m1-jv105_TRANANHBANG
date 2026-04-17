@@ -5,7 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="8e55245b-f8f0-4992-a1d6-dd80c3d51bdf" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/HTML Form &amp; Table/form đăng ký người dùng.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HTML Form &amp; Table/tạo bảng đơn giản/thời khóa biểu.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -51,6 +51,11 @@
     &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
 }</component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\CODEGYM\HTML Form &amp; Table\thời khóa biểu" />
+    </key>
+  </component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
@@ -68,7 +73,7 @@
       <workItem from="1775821186527" duration="7667000" />
       <workItem from="1776042919975" duration="8676000" />
       <workItem from="1776410546052" duration="3904000" />
-      <workItem from="1776425408145" duration="1384000" />
+      <workItem from="1776425408145" duration="3257000" />
     </task>
     <servers />
   </component>
