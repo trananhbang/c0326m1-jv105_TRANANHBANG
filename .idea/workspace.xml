@@ -5,7 +5,6 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="8e55245b-f8f0-4992-a1d6-dd80c3d51bdf" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/HTML Form &amp; Table/tạo bảng đơn giản/thời khóa biểu.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -40,7 +39,7 @@
     &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
     &quot;RunOnceActivity.typescript.service.memoryLimit.init&quot;: &quot;true&quot;,
     &quot;disable.download.node.interpreter.editor.notification&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;loginform&quot;,
     &quot;javascript.preferred.runtime.type.id&quot;: &quot;node&quot;,
     &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
     &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
@@ -74,6 +73,7 @@
       <workItem from="1776042919975" duration="8676000" />
       <workItem from="1776410546052" duration="3904000" />
       <workItem from="1776425408145" duration="3257000" />
+      <workItem from="1776619739973" duration="1704000" />
     </task>
     <servers />
   </component>
