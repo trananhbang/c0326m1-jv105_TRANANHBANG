@@ -5,9 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="8e55245b-f8f0-4992-a1d6-dd80c3d51bdf" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/btvn.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/HTML Form &amp; Table/tạo bảng đơn giản/cập nhật thời khóa biểu.html" beforeDir="false" afterPath="$PROJECT_DIR$/HTML Form &amp; Table/tạo bảng đơn giản/cập nhật thời khóa biểu.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/btvn.html" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/show pass.html" beforeDir="false" afterPath="$PROJECT_DIR$/show pass.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -44,7 +43,7 @@
     "RunOnceActivity.git.unshallow": "true",
     "RunOnceActivity.typescript.service.memoryLimit.init": "true",
     "disable.download.node.interpreter.editor.notification": "true",
-    "git-widget-placeholder": "btvn",
+    "git-widget-placeholder": "main",
     "javascript.preferred.runtime.type.id": "node",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
